@@ -65,7 +65,7 @@
     - Merge request ve pull request süreçlerini öğrenin.  
 
 - **Kullandığımız proje yönetim araçları:**  
-  - **Trello / Jira / ClickUp:** Görevlerinizi takip etmek ve ekibinizle koordinasyon sağlamak için kullanacağız.  
+  - **Trello:** Görevlerinizi takip etmek ve ekibinizle koordinasyon sağlamak için kullanacağız.  
   - Görevler, sprintler ve teslim tarihleri hakkında bilgi sahibi olun.
   - Hızlı iterasyonlar ve düzenli geri bildirimle çalışıyoruz.
 ---
