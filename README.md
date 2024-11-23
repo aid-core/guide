@@ -12,6 +12,7 @@
   - Eğer makale iyi bir dergide değilse ya da güvenilirliği sorgulanabilir durumdaysa şu adımları izleyin:  
     - **İyi makaleleri nasıl bulabilirsiniz?**
       - [Scopus](https://www.scopus.com/)'a giriş yaptıktan sonra makaleyi 'document search' ten aratın. karşınıza çıkan satırda 'Source' sütununda yazan hangi dergide yayınlandığıdır. O derginin linkine tıklayın ve istatistiklerini görüntüleyin. CiteScore, SJR, SNIP ve Percentile skorlarının yüksek; Rank'ının düşük olması iyidir.
+      - [SCI Journal Rank](https://www.scimagojr.com/journalrank.php) derginin hangi çeyreklik değerde olduğuna bakmak için, mümkünse Q1 olmalı.
       - [Web of Science](https://clarivate.com/webofscience/)
       - Google Scholar üzerinde yüksek alıntı (citation) skorlarına sahip makalelere odaklanın.
 
