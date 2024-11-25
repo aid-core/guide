@@ -37,7 +37,8 @@
 ## 4. İTÜ-UHEM Ortamı Kullanımı
 - [Altay sistemine iş vermek](https://wiki.uhem.itu.edu.tr/w/index.php?title=Altay_sistemine_i%C5%9F_vermek)  
 - [Python, Anaconda, Tensorflow, Keras, Caffe Kullanım Kılavuzu](https://wiki.uhem.itu.edu.tr/w/index.php?title=Python,_Anaconda,_Tensorflow,_Keras,_Caffe_Kullan%C4%B1m_K%C4%B1lavuzu)
-- Video ve başlangıç scriptleri yüklenecek
+- [Video anlatım](https://drive.google.com/file/d/1bvN_yl2n8OVbKE5p9imHxIvVymvQz7BQ/view?usp=sharing)
+- [Başlangıç scriptleri](https://drive.google.com/file/d/1yltm3gniihrcJTvCfY-eHVg2hYpFCmCR/view?usp=sharing)
 
 ---
 
